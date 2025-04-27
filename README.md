@@ -51,4 +51,9 @@ In this project, only newly added records are fetched and processed in real time
 
 - Cleaned newly added records were retrieved from the gold table, and a connection was established to load this data to Power BI. During the next pipeline run, Power BI refreshes data to retrieve only newly added records from the gold table in real time.
 
- 
+ # Dashboard
+
+ ![Dashboard - Page 1](https://github.com/user-attachments/assets/b4290afe-7d95-4d2c-91b6-b6ff0d5e9951)
+
+
+
